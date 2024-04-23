@@ -1,2 +1,2 @@
 # Game_Grid
-Petit en console
+Petit en jeux en console
